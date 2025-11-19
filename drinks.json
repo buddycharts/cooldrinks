@@ -1,0 +1,226 @@
+{
+  "category_name": "Drinks",
+  "items": [
+    {
+      "id": 1,
+      "name": "Tea",
+      "quantity": "1 Cup (20 ml)",
+      "selling_price": 10,
+      "original_price": 15,
+      "images": ["drinks/1.jpeg", "drinks/2.jpeg"],
+      "ingredients": ["Milk", "Tea Powder", "Sugar", "Water"],
+      "nutrition": { "calories": 40, "carbs": 6, "protein": 1, "fats": 1 }
+    },
+    {
+      "id": 2,
+      "name": "Coffee",
+      "quantity": "1 Cup (20 ml)",
+      "selling_price": 15,
+      "original_price": 20,
+      "images": ["drinks/3.jpeg", "drinks/4.jpeg"],
+      "ingredients": ["Milk", "Coffee Powder", "Sugar"],
+      "nutrition": { "calories": 45, "carbs": 7, "protein": 1, "fats": 1 }
+    },
+    {
+      "id": 3,
+      "name": "Amul Milk",
+      "quantity": "1 Litre",
+      "selling_price": 32,
+      "original_price": 40,
+      "images": ["drinks/5.jpeg", "drinks/6.jpeg"],
+      "ingredients": ["Pure Milk"],
+      "nutrition": { "calories": 640, "carbs": 48, "protein": 32, "fats": 32 }
+    },
+    {
+      "id": 4,
+      "name": "Curd",
+      "quantity": "1 Litre",
+      "selling_price": 30,
+      "original_price": 40,
+      "images": ["drinks/7.jpeg", "drinks/8.jpeg"],
+      "ingredients": ["Milk", "Curd Culture"],
+      "nutrition": { "calories": 600, "carbs": 46, "protein": 28, "fats": 28 }
+    },
+    {
+  "id": 5,
+  "name": "Sprite",
+  "quantity": "1 Litre",
+  "selling_price": 50,
+  "original_price": 60,
+  "images": ["drinks/9.jpeg", "drinks/10.jpeg"],
+  "ingredients": ["Carbonated Water", "Sugar", "Lemon Flavour"],
+  "nutrition": { "calories": 430, "carbs": 106, "protein": 0, "fats": 0 }
+},
+{
+  "id": 6,
+  "name": "Thumbs Up",
+  "quantity": "1 Litre",
+  "selling_price": 50,
+  "original_price": 60,
+  "images": ["drinks/11.jpeg", "drinks/12.jpeg"],
+  "ingredients": ["Carbonated Water", "Sugar", "Cola Flavour"],
+  "nutrition": { "calories": 420, "carbs": 105, "protein": 0, "fats": 0 }
+},
+{
+  "id": 7,
+  "name": "Limca",
+  "quantity": "1 Litre",
+  "selling_price": 50,
+  "original_price": 60,
+  "images": ["drinks/13.jpeg", "drinks/14.jpeg"],
+  "ingredients": ["Carbonated Water", "Sugar", "Lime Flavour"],
+  "nutrition": { "calories": 420, "carbs": 104, "protein": 0, "fats": 0 }
+},
+{
+  "id": 8,
+  "name": "Pepsi",
+  "quantity": "1 Litre",
+  "selling_price": 60,
+  "original_price": 80,
+  "images": ["drinks/15.jpeg", "drinks/16.jpeg"],
+  "ingredients": ["Carbonated Water", "Sugar", "Cola Flavour"],
+  "nutrition": { "calories": 420, "carbs": 105, "protein": 0, "fats": 0 }
+},
+{
+  "id": 9,
+  "name": "Mazza",
+  "quantity": "2 Litres",
+  "selling_price": 90,
+  "original_price": 120,
+  "images": ["drinks/17.jpeg", "drinks/18.jpeg"],
+  "ingredients": ["Water", "Mango Pulp", "Sugar"],
+  "nutrition": { "calories": 960, "carbs": 224, "protein": 0, "fats": 0 }
+},
+{
+  "id": 10,
+  "name": "Sprite",
+  "quantity": "2 Litres",
+  "selling_price": 90,
+  "original_price": 120,
+  "images": ["drinks/19.jpeg", "drinks/20.jpeg"],
+  "ingredients": ["Carbonated Water", "Sugar", "Lemon Flavour"],
+  "nutrition": { "calories": 860, "carbs": 212, "protein": 0, "fats": 0 }
+},
+{
+  "id": 11,
+  "name": "Limca",
+  "quantity": "2 Litres",
+  "selling_price": 90,
+  "original_price": 120,
+  "images": ["drinks/21.jpeg", "drinks/22.jpeg"],
+  "ingredients": ["Carbonated Water", "Sugar", "Lime Flavour"],
+  "nutrition": { "calories": 840, "carbs": 208, "protein": 0, "fats": 0 }
+},
+{
+  "id": 12,
+  "name": "Thumbs Up",
+  "quantity": "2 Litres",
+  "selling_price": 90,
+  "original_price": 120,
+  "images": ["drinks/23.jpeg", "drinks/24.jpeg"],
+  "ingredients": ["Carbonated Water", "Sugar", "Cola Flavour"],
+  "nutrition": { "calories": 840, "carbs": 210, "protein": 0, "fats": 0 }
+},
+{
+  "id": 13,
+  "name": "Thumbs Up",
+  "quantity": "250 ml",
+  "selling_price": 20,
+  "original_price": 25,
+  "images": ["drinks/25.jpeg", "drinks/26.jpeg"],
+  "ingredients": ["Carbonated Water", "Sugar", "Cola Flavour"],
+  "nutrition": { "calories": 105, "carbs": 26, "protein": 0, "fats": 0 }
+},
+{
+  "id": 14,
+  "name": "Sprite",
+  "quantity": "250 ml",
+  "selling_price": 20,
+  "original_price": 25,
+  "images": ["drinks/27.jpeg", "drinks/28.jpeg"],
+  "ingredients": ["Carbonated Water", "Sugar", "Lemon Flavour"],
+  "nutrition": { "calories": 108, "carbs": 27, "protein": 0, "fats": 0 }
+},
+{
+  "id": 15,
+  "name": "Limca",
+  "quantity": "250 ml",
+  "selling_price": 20,
+  "original_price": 25,
+  "images": ["drinks/29.jpeg", "drinks/30.jpeg"],
+  "ingredients": ["Carbonated Water", "Sugar", "Lime Flavour"],
+  "nutrition": { "calories": 105, "carbs": 26, "protein": 0, "fats": 0 }
+},
+{
+  "id": 16,
+  "name": "Water Bottle",
+  "quantity": "250 ml",
+  "selling_price": 10,
+  "original_price": 15,
+  "images": ["drinks/31.jpeg", "drinks/32.jpeg"],
+  "ingredients": ["Pure Drinking Water"],
+  "nutrition": { "calories": 0, "carbs": 0, "protein": 0, "fats": 0 }
+},
+{
+  "id": 17,
+  "name": "Water Bottle",
+  "quantity": "500 ml",
+  "selling_price": 20,
+  "original_price": 25,
+  "images": ["drinks/33.jpeg", "drinks/34.jpeg"],
+  "ingredients": ["Pure Drinking Water"],
+  "nutrition": { "calories": 0, "carbs": 0, "protein": 0, "fats": 0 }
+},
+{
+  "id": 18,
+  "name": "Water Bottle",
+  "quantity": "1 Litre",
+  "selling_price": 30,
+  "original_price": 40,
+  "images": ["drinks/35.jpeg", "drinks/36.jpeg"],
+  "ingredients": ["Pure Drinking Water"],
+  "nutrition": { "calories": 0, "carbs": 0, "protein": 0, "fats": 0 }
+},
+{
+  "id": 19,
+  "name": "Red Bull",
+  "quantity": "250 ml",
+  "selling_price": 120,
+  "original_price": 150,
+  "images": ["drinks/37.jpeg", "drinks/38.jpeg"],
+  "ingredients": ["Carbonated Water", "Sugar", "Caffeine", "Taurine", "Vitamins"],
+  "nutrition": { "calories": 110, "carbs": 28, "protein": 0, "fats": 0 }
+},
+{
+  "id": 20,
+  "name": "Diet Coke",
+  "quantity": "330 ml",
+  "selling_price": 40,
+  "original_price": 55,
+  "images": ["drinks/39.jpeg", "drinks/40.jpeg"],
+  "ingredients": ["Carbonated Water", "Sweeteners", "Caramel Colour", "Flavour"],
+  "nutrition": { "calories": 1, "carbs": 0, "protein": 0, "fats": 0 }
+},
+{
+  "id": 21,
+  "name": "ORSL Apple",
+  "quantity": "200 ml",
+  "selling_price": 35,
+  "original_price": 45,
+  "images": ["drinks/41.jpeg", "drinks/42.jpeg"],
+  "ingredients": ["Electrolytes", "Apple Flavour", "Glucose", "Water"],
+  "nutrition": { "calories": 70, "carbs": 17, "protein": 0, "fats": 0 }
+},
+{
+  "id": 22,
+  "name": "7UP",
+  "quantity": "2 Litres",
+  "selling_price": 90,
+  "original_price": 120,
+  "images": ["drinks/43.jpeg", "drinks/44.jpeg"],
+  "ingredients": ["Carbonated Water", "Sugar", "Lemon Flavour"],
+  "nutrition": { "calories": 840, "carbs": 210, "protein": 0, "fats": 0 }
+}
+
+  ]
+}

@@ -220,8 +220,30 @@
   "images": ["drinks/43.jpeg", "drinks/44.jpeg"],
   "ingredients": ["Carbonated Water", "Sugar", "Lemon Flavour"],
   "nutrition": { "calories": 840, "carbs": 210, "protein": 0, "fats": 0 }
+},
+{
+  "id": 23,
+  "name": "Fanta",
+  "quantity": "1 Litre",
+  "selling_price": 50,
+  "original_price": 60,
+  "images": ["drinks/45.jpg", "drinks/46.jpg"],
+  "ingredients": ["Carbonated Water", "Sugar", "Orange Flavour"],
+  "nutrition": { "calories": 430, "carbs": 108, "protein": 0, "fats": 0 }
+},
+{
+  "id": 24,
+  "name": "Coca Cola",
+  "quantity": "1 Litre",
+  "selling_price": 50,
+  "original_price": 60,
+  "images": ["drinks/47.jpg", "drinks/48.jpg"],
+  "ingredients": ["Carbonated Water", "Sugar", "Cola Flavour"],
+  "nutrition": { "calories": 420, "carbs": 105, "protein": 0, "fats": 0 }
 }
+
 
   ]
 }
+
 

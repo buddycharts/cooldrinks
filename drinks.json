@@ -47,7 +47,7 @@
   "quantity": "1 Litre",
   "selling_price": 50,
   "original_price": 60,
-  "images": ["drinks/9.jpeg", "drinks/10.jpeg"],
+  "images": ["drinks/9.jpeg", "drinks/10.jpg"],
   "ingredients": ["Carbonated Water", "Sugar", "Lemon Flavour"],
   "nutrition": { "calories": 430, "carbs": 106, "protein": 0, "fats": 0 }
 },
@@ -197,7 +197,7 @@
   "quantity": "330 ml",
   "selling_price": 40,
   "original_price": 55,
-  "images": ["drinks/39.jpeg", "drinks/40.jpeg"],
+  "images": ["drinks/39.jpeg", "drinks/40.jpg"],
   "ingredients": ["Carbonated Water", "Sweeteners", "Caramel Colour", "Flavour"],
   "nutrition": { "calories": 1, "carbs": 0, "protein": 0, "fats": 0 }
 },
@@ -224,3 +224,4 @@
 
   ]
 }
+

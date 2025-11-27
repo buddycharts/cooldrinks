@@ -240,10 +240,180 @@
   "images": ["drinks/47.jpg", "drinks/48.jpg"],
   "ingredients": ["Carbonated Water", "Sugar", "Cola Flavour"],
   "nutrition": { "calories": 420, "carbs": 105, "protein": 0, "fats": 0 }
-}
+}, {
+    "id": 23,
+    "name": "Sprite Tin",
+    "quantity": "300 ml",
+    "selling_price": 40,
+    "original_price": 50,
+    "images": ["drinks/45.jpeg", "drinks/46.jpeg"],
+    "ingredients": ["Carbonated Water", "Sugar", "Lemon Flavour"],
+    "nutrition": { "calories": 130, "carbs": 32, "protein": 0, "fats": 0 }
+  },
+  {
+    "id": 24,
+    "name": "Fanta Tin",
+    "quantity": "300 ml",
+    "selling_price": 40,
+    "original_price": 50,
+    "images": ["drinks/47.jpeg", "drinks/48.jpeg"],
+    "ingredients": ["Carbonated Water", "Sugar", "Orange Flavour"],
+    "nutrition": { "calories": 130, "carbs": 33, "protein": 0, "fats": 0 }
+  },
+  {
+    "id": 25,
+    "name": "Pepsi Tin",
+    "quantity": "300 ml",
+    "selling_price": 40,
+    "original_price": 50,
+    "images": ["drinks/49.jpeg", "drinks/50.jpeg"],
+    "ingredients": ["Carbonated Water", "Sugar", "Cola Flavour"],
+    "nutrition": { "calories": 126, "carbs": 31, "protein": 0, "fats": 0 }
+  },
+  {
+    "id": 26,
+    "name": "Coca Cola Tin",
+    "quantity": "300 ml",
+    "selling_price": 40,
+    "original_price": 55,
+    "images": ["drinks/51.jpeg", "drinks/52.jpeg"],
+    "ingredients": ["Carbonated Water", "Sugar", "Caramel Colour", "Cola Flavour"],
+    "nutrition": { "calories": 129, "carbs": 32, "protein": 0, "fats": 0 }
+  },
+  {
+    "id": 27,
+    "name": "Monster Energy",
+    "quantity": "350 ml",
+    "selling_price": 112,
+    "original_price": 150,
+    "images": ["drinks/53.jpeg", "drinks/54.jpeg"],
+    "ingredients": ["Carbonated Water", "Sugar", "Caffeine", "Taurine", "B-Vitamins"],
+    "nutrition": { "calories": 160, "carbs": 40, "protein": 0, "fats": 0 }
+  },
+  {
+    "id": 28,
+    "name": "Frooti",
+    "quantity": "160 ml",
+    "selling_price": 12,
+    "original_price": 18,
+    "images": ["drinks/55.jpeg", "drinks/56.jpeg"],
+    "ingredients": ["Water", "Mango Pulp", "Sugar"],
+    "nutrition": { "calories": 80, "carbs": 20, "protein": 0, "fats": 0 }
+  },
+  {
+    "id": 29,
+    "name": "Tata Gluco",
+    "quantity": "200 ml",
+    "selling_price": 10,
+    "original_price": 15,
+    "images": ["drinks/57.jpeg", "drinks/58.jpeg"],
+    "ingredients": ["Water", "Glucose", "Electrolytes"],
+    "nutrition": { "calories": 60, "carbs": 15, "protein": 0, "fats": 0 }
+  },
+  {
+    "id": 30,
+    "name": "Tata Gluco+",
+    "quantity": "200 ml",
+    "selling_price": 10,
+    "original_price": 15,
+    "images": ["drinks/59.jpeg", "drinks/60.jpeg"],
+    "ingredients": ["Water", "Glucose", "Electrolytes", "Fruit Flavour"],
+    "nutrition": { "calories": 65, "carbs": 16, "protein": 0, "fats": 0 }
+  },
+  {
+    "id": 31,
+    "name": "Tata Gluco Berry Blast",
+    "quantity": "200 ml",
+    "selling_price": 10,
+    "original_price": 15,
+    "images": ["drinks/61.jpeg", "drinks/62.jpeg"],
+    "ingredients": ["Water", "Glucose", "Berry Flavour", "Electrolytes"],
+    "nutrition": { "calories": 65, "carbs": 16, "protein": 0, "fats": 0 }
+  },
+  {
+    "id": 32,
+    "name": "Winkin Cow Strawberry",
+    "quantity": "180 ml",
+    "selling_price": 40,
+    "original_price": 55,
+    "images": ["drinks/63.jpeg", "drinks/64.jpeg"],
+    "ingredients": ["Milk", "Sugar", "Strawberry Flavour"],
+    "nutrition": { "calories": 150, "carbs": 25, "protein": 5, "fats": 4 }
+  },
+  {
+    "id": 33,
+    "name": "Winkin Cow Chocolate",
+    "quantity": "180 ml",
+    "selling_price": 40,
+    "original_price": 55,
+    "images": ["drinks/65.jpeg", "drinks/66.jpeg"],
+    "ingredients": ["Milk", "Sugar", "Cocoa"],
+    "nutrition": { "calories": 160, "carbs": 26, "protein": 5, "fats": 4 }
+  },
+  {
+    "id": 34,
+    "name": "Winkin Cow Bourbon",
+    "quantity": "180 ml",
+    "selling_price": 40,
+    "original_price": 55,
+    "images": ["drinks/67.jpeg", "drinks/68.jpeg"],
+    "ingredients": ["Milk", "Sugar", "Bourbon Flavour"],
+    "nutrition": { "calories": 155, "carbs": 25, "protein": 5, "fats": 4 }
+  },
+  {
+    "id": 35,
+    "name": "Pulpy Orange",
+    "quantity": "250 ml",
+    "selling_price": 20,
+    "original_price": 30,
+    "images": ["drinks/69.jpeg", "drinks/70.jpeg"],
+    "ingredients": ["Water", "Orange Pulp", "Sugar"],
+    "nutrition": { "calories": 110, "carbs": 27, "protein": 0, "fats": 0 }
+  },
+  {
+    "id": 36,
+    "name": "Predator",
+    "quantity": "330 ml",
+    "selling_price": 60,
+    "original_price": 80,
+    "images": ["drinks/71.jpeg", "drinks/72.jpeg"],
+    "ingredients": ["Carbonated Water", "Sugar", "Caffeine", "Taurine"],
+    "nutrition": { "calories": 140, "carbs": 34, "protein": 0, "fats": 0 }
+  },
+  {
+    "id": 37,
+    "name": "Jersey Pista Milk",
+    "quantity": "200 ml",
+    "selling_price": 40,
+    "original_price": 50,
+    "images": ["drinks/73.jpeg", "drinks/74.jpeg"],
+    "ingredients": ["Milk", "Sugar", "Pistachio Flavour"],
+    "nutrition": { "calories": 180, "carbs": 24, "protein": 6, "fats": 7 }
+  },
+  {
+    "id": 38,
+    "name": "Sugar Cane Juice",
+    "quantity": "300 ml",
+    "selling_price": 40,
+    "original_price": 50,
+    "images": ["drinks/75.jpeg", "drinks/76.jpeg"],
+    "ingredients": ["Sugarcane Extract", "Lemon", "Ginger"],
+    "nutrition": { "calories": 180, "carbs": 45, "protein": 0, "fats": 0 }
+  },
+  {
+    "id": 39,
+    "name": "Kinley Soda",
+    "quantity": "750 ml",
+    "selling_price": 20,
+    "original_price": 25,
+    "images": ["drinks/77.jpeg", "drinks/78.jpeg"],
+    "ingredients": ["Carbonated Water"],
+    "nutrition": { "calories": 0, "carbs": 0, "protein": 0, "fats": 0 }
+  }
 
 
   ]
 }
+
 
 

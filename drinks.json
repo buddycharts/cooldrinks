@@ -491,8 +491,8 @@
   "id": 46,
   "name": "Red Bull Energy Drink",
   "quantity": "250 ml",
-  "selling_price": 90,
-  "original_price": 95,
+  "selling_price": 110,
+  "original_price": 130,
   "images": ["drinks/125.jpg", "drinks/126.jpg"],
   "ingredients": ["Carbonated Water", "Sugar", "Caffeine", "Taurine", "B Vitamins"],
   "nutrition": {
@@ -535,6 +535,7 @@
 
   ]
 }
+
 
 
 

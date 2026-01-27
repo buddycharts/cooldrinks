@@ -410,11 +410,132 @@
     "original_price": 25,
     "images": ["drinks/112.jpeg", "drinks/111.jpeg"],
     "ingredients": ["Carbonated Water"],
-    "nutrition": { "calories": 0, "carbs": 0, "protein": 0, "fats": 0 }
+    "nutrition": { "calories": 200, "carbs": 54, "protein": 0, "fats": 0 }
+  },
+    {
+  "id": 40,
+  "name": "Campa Orange",
+  "quantity": "750 ml",
+  "selling_price": 20,
+  "original_price": 25,
+  "images": ["drinks/113.jpg", "drinks/114.jpg"],
+  "ingredients": ["Carbonated Water", "Orange Flavour"],
+  "nutrition": { "calories": 300, "carbs": 100, "protein": 0, "fats": 0 }
+},
+   {
+  "id": 40,
+  "name": "Campa Orange",
+  "quantity": "750 ml",
+  "selling_price": 20,
+  "original_price": 25,
+  "images": ["drinks/113.jpg", "drinks/114.jpg"],
+  "ingredients": ["Carbonated Water", "Orange Flavour"],
+  "nutrition": { "calories": 300, "carbs": 80, "protein": 0, "fats": 0 }
+},
+    {
+  "id": 42,
+  "name": "Campa Soda",
+  "quantity": "750 ml",
+  "selling_price": 20,
+  "original_price": 25,
+  "images": ["drinks/117.jpg", "drinks/118.jpg"],
+  "ingredients": ["Carbonated Water"],
+  "nutrition": { "calories": 200, "carbs": 54, "protein": 0, "fats": 0 }
+},
+   {
+  "id": 43,
+  "name": "Artos",
+  "quantity": "250 ml",
+  "selling_price": 10,
+  "original_price": 12,
+  "images": ["drinks/119.jpg", "drinks/120.jpg"],
+  "ingredients": ["Carbonated Water", "Sugar"],
+  "nutrition": {
+    "calories": 105,
+    "carbs": 26,
+    "protein": 0,
+    "fats": 0
   }
+},
+    {
+  "id": 44,
+  "name": "Fanta Dark Mystery",
+  "quantity": "750 ml",
+  "selling_price": 20,
+  "original_price": 25,
+  "images": ["drinks/121.jpg", "drinks/122.jpg"],
+  "ingredients": ["Carbonated Water", "Sugar", "Mixed Fruit Flavour"],
+  "nutrition": {
+    "calories": 315,
+    "carbs": 79,
+    "protein": 0,
+    "fats": 0
+  }
+},
+    {
+  "id": 45,
+  "name": "Sun Crush Orange",
+  "quantity": "250 ml",
+  "selling_price": 15,
+  "original_price": 18,
+  "images": ["drinks/123.jpg", "drinks/124.jpg"],
+  "ingredients": ["Carbonated Water", "Sugar", "Orange Flavour"],
+  "nutrition": {
+    "calories": 105,
+    "carbs": 26,
+    "protein": 0,
+    "fats": 0
+  }
+},
+    {
+  "id": 46,
+  "name": "Red Bull Energy Drink",
+  "quantity": "250 ml",
+  "selling_price": 90,
+  "original_price": 95,
+  "images": ["drinks/125.jpg", "drinks/126.jpg"],
+  "ingredients": ["Carbonated Water", "Sugar", "Caffeine", "Taurine", "B Vitamins"],
+  "nutrition": {
+    "calories": 110,
+    "carbs": 27,
+    "protein": 1,
+    "fats": 0
+  }
+},
+    {
+  "id": 47,
+  "name": "Artos Orange",
+  "quantity": "750 ml",
+  "selling_price": 20,
+  "original_price": 25,
+  "images": ["drinks/127.jpg", "drinks/128.jpg"],
+  "ingredients": ["Carbonated Water", "Sugar", "Orange Flavour"],
+  "nutrition": {
+    "calories": 315,
+    "carbs": 79,
+    "protein": 0,
+    "fats": 0
+  }
+},
+    {
+  "id": 48,
+  "name": "Tata Copper Water",
+  "quantity": "1 L",
+  "selling_price": 20,
+  "original_price": 25,
+  "images": ["drinks/129.jpg", "drinks/130.jpg"],
+  "ingredients": ["Copper Charged Water"],
+  "nutrition": {
+    "calories": 0,
+    "carbs": 0,
+    "protein": 0,
+    "fats": 0
+  }
+}
 
   ]
 }
+
 
 
 

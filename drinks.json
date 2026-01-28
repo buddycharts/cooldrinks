@@ -3,24 +3,41 @@
   "items": [
     {
       "id": 1,
-      "name": "Tea",
-      "quantity": "1 Cup (20 ml)",
-      "selling_price": 10,
-      "original_price": 15,
-      "images": ["drinks/1.jpeg", "drinks/2.jpeg"],
-      "ingredients": ["Milk", "Tea Powder", "Sugar", "Water"],
-      "nutrition": { "calories": 40, "carbs": 6, "protein": 1, "fats": 1 }
+      "name": "Water Packet",
+      "quantity": "Pack of 10",
+      "selling_price": 18,
+      "original_price": 25,
+      "images": ["drinks/131.jpg", "drinks/132.jpg"],
+      "ingredients": ["Purified Water"],
+      "nutrition": {
+    "calories": 100,
+    "carbs": 0,
+    "protein": 0,
+    "fats": 0
+  }
     },
     {
-      "id": 2,
-      "name": "Coffee",
-      "quantity": "1 Cup (20 ml)",
-      "selling_price": 15,
-      "original_price": 20,
-      "images": ["drinks/3.jpeg", "drinks/4.jpeg"],
-      "ingredients": ["Milk", "Coffee Powder", "Sugar"],
-      "nutrition": { "calories": 45, "carbs": 7, "protein": 1, "fats": 1 }
-    },
+   {
+  "id": 2,
+  "name": "Fanta",
+  "quantity": "200 ml",
+  "selling_price": 20,
+  "original_price": 25,
+  "images": ["drinks/133.jpg", "drinks/134.jpg"],
+  "ingredients": [
+    "Carbonated Water",
+    "Sugar",
+    "Citric Acid",
+    "Orange Flavour",
+    "Permitted Food Colour"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "carbs": 23,
+    "protein": 0,
+    "fats": 0
+  }
+},
     {
       "id": 3,
       "name": "Amul Milk",
@@ -535,6 +552,7 @@
 
   ]
 }
+
 
 
 

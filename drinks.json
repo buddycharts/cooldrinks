@@ -41,8 +41,8 @@
       "id": 3,
       "name": "Amul Milk",
       "quantity": "1 Litre",
-      "selling_price": 32,
-      "original_price": 40,
+      "selling_price": 74,
+      "original_price": 90,
       "images": ["drinks/5.jpeg", "drinks/6.jpeg"],
       "ingredients": ["Pure Milk"],
       "nutrition": { "calories": 640, "carbs": 48, "protein": 32, "fats": 32 }
@@ -201,7 +201,7 @@
   "id": 19,
   "name": "Red Bull",
   "quantity": "250 ml",
-  "selling_price": 120,
+  "selling_price": 130,
   "original_price": 150,
   "images": ["drinks/37.jpeg", "drinks/38.jpeg"],
   "ingredients": ["Carbonated Water", "Sugar", "Caffeine", "Taurine", "Vitamins"],
@@ -302,7 +302,7 @@
     "id": 27,
     "name": "Monster Energy",
     "quantity": "350 ml",
-    "selling_price": 112,
+    "selling_price": 130,
     "original_price": 150,
     "images": ["drinks/87.jpeg", "drinks/88.jpeg"],
     "ingredients": ["Carbonated Water", "Sugar", "Caffeine", "Taurine", "B-Vitamins"],
@@ -412,7 +412,7 @@
     "id": 38,
     "name": "Sugar Cane Juice",
     "quantity": "300 ml",
-    "selling_price": 40,
+    "selling_price": 20,
     "original_price": 50,
     "images": ["drinks/109.jpeg", "drinks/110.jpeg"],
     "ingredients": ["Sugarcane Extract", "Lemon", "Ginger"],
@@ -507,8 +507,8 @@
   "id": 46,
   "name": "Red Bull Energy Drink",
   "quantity": "250 ml",
-  "selling_price": 110,
-  "original_price": 130,
+  "selling_price": 130,
+  "original_price": 150,
   "images": ["drinks/125.jpg", "drinks/126.jpg"],
   "ingredients": ["Carbonated Water", "Sugar", "Caffeine", "Taurine", "B Vitamins"],
   "nutrition": {
@@ -551,6 +551,7 @@
 
   ]
 }
+
 
 
 

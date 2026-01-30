@@ -51,8 +51,8 @@
       "id": 4,
       "name": "Curd",
       "quantity": "1 Litre",
-      "selling_price": 30,
-      "original_price": 40,
+      "selling_price": 60,
+      "original_price": 80,
       "images": ["drinks/7.jpeg", "drinks/8.jpeg"],
       "ingredients": ["Milk", "Curd Culture"],
       "nutrition": { "calories": 600, "carbs": 46, "protein": 28, "fats": 28 }
